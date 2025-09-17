@@ -68,33 +68,35 @@
 
 **📂 Repository Structure**
 
-**Battery-Intelligence-Analysis/**
+**Battery-Intelligence-Analysis/
 
 **│**
 
 **├── data/**
 
-**│   ├── battery\_data\_raw.csv**
+**│   ├──costing_data
 
-**│   └── battery\_data\_final.xlsx**
+**│   └── sales_data Q1
+
+**│   └── Ssles_data Q2
 
 **│**
 
 **├── notebooks/**
 
-**│   └── cleaning\_with\_pandas.ipynb**
+**│   └── final_data_sets
 
 **│**
 
 **├── dashboard/**
 
-**│   └── battery\_dashboard.pbix**
+**│   └── final_data.pbix
 
 **│**
 
 **├── images/**
 
-**│   └── dashboard\_preview.png**
+**│   └──check_adain.png
 
 **│**
 
@@ -106,4 +108,5 @@
 **Expand the analysis to include a larger, real-world dataset.**
 
 **Build a web application (e.g., using Streamlit) for dynamic, online access to the analysis.**
+
 
